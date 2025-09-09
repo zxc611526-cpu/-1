@@ -1,5 +1,3 @@
-# -1
-病人安全週互動小遊戲
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
